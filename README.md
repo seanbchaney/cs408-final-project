@@ -54,5 +54,5 @@ The application will manage:
 - Week 4: Testing, refinement, and deployment
 
 ## Project Wireframe
-TODO: Replace the wireframe below with you own design.
-![wireframe](wireframe-example.png)
+![wireframe](Home.png)
+![wireframe](Login.png)
