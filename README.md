@@ -1,7 +1,3 @@
-# Web Dev Starter Code
-
-## Project Spec
-
 # FitnessFusion
 
 ## Project Theme
