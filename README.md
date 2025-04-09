@@ -54,5 +54,5 @@ The application will manage:
 - Week 4: Testing, refinement, and deployment
 
 ## Project Wireframe
-![wireframe](Home.png)
 ![wireframe](Login.png)
+![wireframe](Home.png)
